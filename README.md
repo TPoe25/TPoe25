@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TPoe25
 - 👀 I’m interested in Sports, Movies, and outdoor activities
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m currently learning Full Stack.
 - 💞️ I’m looking to collaborate on new ideas and whatever can help
 - 📫 How to reach me, call text 918-527-4258.
 
