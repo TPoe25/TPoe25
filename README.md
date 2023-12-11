@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on new ideas and whatever can help
 - 📫 How to reach me, call text 918-527-4258.
 
-Qgtiqgiiq4gtqi
 
 <!---
 TPoe25/TPoe25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
