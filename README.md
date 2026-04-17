@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TPoe25
-- 👀 I’m interested in Sports, Movies, and outdoor activities
-- 🌱 I’m currently learning Full Stack.
+-  Hi, I’m Taylor Poe
+-  I recently Graduated from Atlas School, in Computer Science and Full Stack Software Engineering
+-  I’m interested in Sports, Movies, and outdoor activities
 - 💞️ I’m looking to collaborate on new ideas and whatever can help
-- 📫 How to reach me, call text 918-527-4258.
+- 📫 How to reach me, email me at taylor.poe@atlasstudents.com or t_poe25@yahoo.com
 
 
 <!---
